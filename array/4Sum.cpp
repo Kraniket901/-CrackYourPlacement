@@ -32,7 +32,7 @@ public:
 };
 
 //not efficient but easier to understand
-
+ww
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
